@@ -1,4 +1,4 @@
-### Olá! Eu sou o Geovane Gomes
+### Olá! Eu sou o Geovane Gomes atualmente estou fazendo um curso de Front-End no SENAI.
 
 - 🔭 Front-End em Formação
 - 🌱 Estudando, HTML-CSS-JAVASCRIPT E REACT JS
